@@ -1,5 +1,5 @@
 {
-  "name": "@sehl/typographic-base",
+  "name": "typographic-base",
   "version": "1.0.0",
   "description": "typography set for fixing common issues (based on @iamstarkov's package)",
   "main": "index.es5.js",
