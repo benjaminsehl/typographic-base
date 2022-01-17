@@ -1,7 +1,7 @@
 {
-  "name": "typographic-base",
-  "version": "1.0.4",
-  "description": "typography set for fixing common issues",
+  "name": "@sehl/typographic-base",
+  "version": "1.0.0",
+  "description": "typography set for fixing common issues (based on @iamstarkov's package)",
   "main": "index.es5.js",
   "scripts": {
     "watch": "npm run transpile -- --watch",
@@ -18,19 +18,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamstarkov/typographic-base.git"
+    "url": "git+https://github.com/benjaminsehl/typographic-base.git"
   },
   "keywords": [
     "typo",
     "typography",
     "textr"
   ],
-  "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com)",
+  "author": "Benjamin Sehl <ben@sehl.ca> (https://sehl.ca)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamstarkov/typographic-base/issues"
+    "url": "https://github.com/benjaminsehl/typographic-base/issues"
   },
-  "homepage": "https://github.com/iamstarkov/typographic-base#readme",
+  "homepage": "https://github.com/benjaminsehl/typographic-base#readme",
   "devDependencies": {
     "assert": "*",
     "babel-cli": "^6.2.0",
