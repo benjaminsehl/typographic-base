@@ -54,6 +54,7 @@
     "typographic-em-dashes": "^1.0.2",
     "typographic-en-dashes": "^1.0.1",
     "typographic-math-symbols": "^1.1.5",
+    "typographic-orphan": "^1.0.1",
     "typographic-quotes": "^1.2.1",
     "typographic-registered-trademark": "^1.0.1",
     "typographic-single-spaces": "^1.0.2",
